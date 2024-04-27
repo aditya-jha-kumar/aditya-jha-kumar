@@ -3,9 +3,6 @@
 <h3 align="center">A FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-jha-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-jha-kumar" /> </p>
-
 - 🔭 I’m currently working on **Web Applications**
 
 - 📫 How to reach me **aditya.jhab76@gmail.com**
